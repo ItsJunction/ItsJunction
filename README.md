@@ -1,1 +1,3 @@
 ### Just Junction, that's it. 
+
+I research, if that gives you info about me...

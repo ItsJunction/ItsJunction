@@ -1,4 +1,4 @@
-## <p align="center">Junction</p>
+# <p align="center">Junction</p>
 
 ### <p align="center">I make and break things, that's about it really.</p>
 
